@@ -14,3 +14,6 @@ Technologies Used
 Django: A high-level Python web framework that enables rapid development of secure and maintainable websites.
 HTML: The standard markup language for creating web pages.
 CSS: A style sheet language used for describing the presentation of a document written in HTML.
+<br>
+Conclusion
+The Text Analysis Website is a powerful tool for anyone looking to clean and prepare text for analysis. With its simple interface and effective features, users can easily manipulate text to suit their needs. For any issues or feature requests, please contact the development team.
