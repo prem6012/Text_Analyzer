@@ -15,13 +15,13 @@ Extra Space Removal: Users can remove extra spaces between words, ensuring that 
 Number Removal: The application can strip out all numeric characters from the text, which is useful for certain types of text analysis.
 <br>
 <br>
-<u>Technologies Used</u>
+<i>Technologies Used</i>
 <br>
 Django: A high-level Python web framework that enables rapid development of secure and maintainable websites.
 HTML: The standard markup language for creating web pages.
 CSS: A style sheet language used for describing the presentation of a document written in HTML.
 <br>
 <br>
-<u>Conclusion</u>
+<i>Conclusion</i>
 <br>
 The Text Analysis Website is a powerful tool for anyone looking to clean and prepare text for analysis. With its simple interface and effective features, users can easily manipulate text to suit their needs.
