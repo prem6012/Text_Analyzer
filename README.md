@@ -1,7 +1,7 @@
 <b>Text Analysis Website</b>
 <br>
 <br>
-<u>Features</u>
+<i>Features</i>
 <br>
 <br>
 Punctuation Removal: The application can remove all punctuation marks from the input text, allowing users to focus on the words themselves.
